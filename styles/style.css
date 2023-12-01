@@ -1,10 +1,21 @@
 body {
-  background-color: greenyellow;
+  background-color: #f5eec8;
 }
 
 h1 {
-  color: blue;
+  color: #555843;
+  margin-top: 50px;
   text-align: center;
+}
+p {
+  margin: 5% 0;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .links {
@@ -13,5 +24,6 @@ h1 {
 }
 
 .links a {
+  color: #367e18;
   padding: 20px;
 }
